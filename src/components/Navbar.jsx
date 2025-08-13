@@ -71,15 +71,7 @@ export default function ResponsiveNavbar() {
       <div className="flex items-center justify-between px-4 py-4 sm:px-6 lg:px-12 max-w-7xl mx-auto">
         {/* Logo */}
         <div className="flex-shrink-0 z-50">
-          // <img
-           // src={
-           //   logo || "/placeholder.svg?height=48&width=48&query=company logo"
-        //    }
-        //    alt="Logo"
-          //  className={`h-10 w-10 sm:h-12 sm:w-12 rounded-full transition-all duration-300 ${
-          //    isScrolled ? "scale-90" : "scale-100"
-        //    }`}
-      //    /> 
+          
           <h2>LOGO</h2>
         </div>
 
@@ -157,13 +149,7 @@ export default function ResponsiveNavbar() {
         <div className="flex flex-col h-full">
           {/* Mobile Menu Header */}
           <div className="flex items-center justify-between p-6 border-b border-gray-200">
-           // <img
-           //   src={
-          //      logo || "/placeholder.svg?height=40&width=40&query=company logo"
-           //   }
-          //    alt="Logo"
-          //    className="h-10 w-10 rounded-full"
-         //   /> 
+          
             <h2>LOGO</h2>
             <button
               onClick={closeMenu}
